@@ -1,1 +1,4 @@
 handson-ml2
+*.csv
+*.npy
+*.npz
