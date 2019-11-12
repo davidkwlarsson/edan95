@@ -1,0 +1,9 @@
+// The Decision Tree
+digraph {
+	0 [label="
+id: 0"]
+	1 [label="
+id: 1"]
+	4 [label="
+id: 4"]
+}
